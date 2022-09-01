@@ -1,0 +1,41 @@
+body{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.navbar {
+    background-color: white;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.quemSomos{
+    text-transform: uppercase;
+}
+
+.quem-somos{
+    background-color: #6DAAFF;
+    
+}
+
+.serviços{
+    background-color: #FFC824;
+}
+
+.parceiros{
+    background-color:  #6DFB77 ;
+}
+
+.textoParceiros{
+    padding-bottom: 0;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
